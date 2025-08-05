@@ -1,32 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Alexandre Beuzen</title>
-    <link>http://localhost:1313/aaxx.ee/tags/</link>
-    <description>Recent content in Tags on Alexandre Beuzen</description>
+    <title>Tags on alexandre beuzen - student @ Concordia university</title>
+    <link>https://aaaxxxeee.github.io/aaxx.ee/tags/</link>
+    <description>Recent content in Tags on alexandre beuzen - student @ Concordia university</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Oct 2022 17:12:11 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/aaxx.ee/tags/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>alexandrebeuz121@gmail.com (Alexandre Beuzen)</managingEditor>
+    <webMaster>alexandrebeuz121@gmail.com (Alexandre Beuzen)</webMaster>
+    <lastBuildDate>Mon, 04 Aug 2025 19:46:51 -0400</lastBuildDate>
+    <atom:link href="https://aaaxxxeee.github.io/aaxx.ee/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>http://localhost:1313/aaxx.ee/tags/hugo/</link>
-      <pubDate>Wed, 26 Oct 2022 17:12:11 +0700</pubDate>
-      <guid>http://localhost:1313/aaxx.ee/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Diagrams</title>
-      <link>http://localhost:1313/aaxx.ee/tags/diagrams/</link>
-      <pubDate>Tue, 25 Oct 2022 17:12:11 +0700</pubDate>
-      <guid>http://localhost:1313/aaxx.ee/tags/diagrams/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech</title>
-      <link>http://localhost:1313/aaxx.ee/tags/tech/</link>
-      <pubDate>Tue, 25 Oct 2022 17:12:11 +0700</pubDate>
-      <guid>http://localhost:1313/aaxx.ee/tags/tech/</guid>
+      <title>Projects</title>
+      <link>https://aaaxxxeee.github.io/aaxx.ee/tags/projects/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
+      <guid>https://aaaxxxeee.github.io/aaxx.ee/tags/projects/</guid>
       <description></description>
     </item>
   </channel>
