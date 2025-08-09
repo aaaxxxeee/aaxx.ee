@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/projects/laboratoire-sc%C3%A9nographique---mapp_mtl-x-moment-factory/</loc>
+    <loc>http://localhost:1313/projects/laboratoire-sc%C3%A9nographique---mapp_mtl-x-moment-factory/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/projects/</loc>
+    <loc>http://localhost:1313/tags/projects/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-08-08T10:51:18-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2025-08-08T10:51:18-04:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-08T21:33:08-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-08-04T19:46:51-04:00</lastmod>
   </url>
 </urlset>
