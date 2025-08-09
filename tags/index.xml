@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on alexandre beuzen</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://aaaxxxeee.github.io/aaxx.ee/tags/</link>
     <description>Recent content in Tags on alexandre beuzen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>kiennt2609@gmail.com (Kien Nguyen-Tuan)</managingEditor>
-    <webMaster>kiennt2609@gmail.com (Kien Nguyen-Tuan)</webMaster>
+    <managingEditor>alexandrebeuz121@gmail.com (Alexandre Beuzen)</managingEditor>
+    <webMaster>alexandrebeuz121@gmail.com (Alexandre Beuzen)</webMaster>
     <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aaaxxxeee.github.io/aaxx.ee/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/tags/projects/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><author>kiennt2609@gmail.com (Kien Nguyen-Tuan)</author>
-      <guid>http://localhost:1313/tags/projects/</guid>
+      <link>https://aaaxxxeee.github.io/aaxx.ee/tags/projects/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
+      <guid>https://aaaxxxeee.github.io/aaxx.ee/tags/projects/</guid>
       <description></description>
     </item>
   </channel>
