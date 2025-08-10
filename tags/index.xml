@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on alexandre beuzen</title>
+    <link>http://localhost:1313/aaxx.ee/tags/</link>
+    <description>Recent content in Tags on alexandre beuzen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>alexandrebeuz121@gmail.com (Alexandre Beuzen)</managingEditor>
+    <webMaster>alexandrebeuz121@gmail.com (Alexandre Beuzen)</webMaster>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/aaxx.ee/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/aaxx.ee/tags/projects/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
+      <guid>http://localhost:1313/aaxx.ee/tags/projects/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
