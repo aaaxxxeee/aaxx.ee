@@ -10,11 +10,39 @@
     <webMaster>alexandrebeuz121@gmail.com (Alexandre Beuzen)</webMaster>
     <atom:link href="http://localhost:1313/aaxx.ee/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Laboratoire Scénographique - MAPP_MTL x Moment Factory</title>
+      <title>exotopie</title>
+      <link>http://localhost:1313/aaxx.ee/projects/exotopie/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
+      <guid>http://localhost:1313/aaxx.ee/projects/exotopie/</guid>
+      <description>&lt;p&gt;On March 8th 2025, UQAM&amp;rsquo;s Judith-Jasmin building was transformed into an alternative universe showcasing the work of the 2022 cohort in Interactive Media. Produced over 6 months by the 22 members, the project showcased musical performances as well as interactive visuals and electronics.&lt;/p&gt;&#xA;&lt;p&gt;Photography : Kevin Larue, Andy Martinez , Rosalie Turcotte&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>laboratoire scénographique - MAPP_MTL x Moment Factory</title>
       <link>http://localhost:1313/aaxx.ee/projects/laboratoire-sc%C3%A9nographique---mapp_mtl-x-moment-factory/</link>
       <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
       <guid>http://localhost:1313/aaxx.ee/projects/laboratoire-sc%C3%A9nographique---mapp_mtl-x-moment-factory/</guid>
-      <description>&lt;p&gt;In September 2024 I had the opportunity to be apart of the small group who worked on the closing party of the MAPP_MTL festival which took place on September 29th 2024 at Moment Factory.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In September 2024 I had the opportunity to be apart of the small group who worked on the closing party of the MAPP_MTL festival which took place on September 29th 2024 at Moment Factory.&lt;/p&gt;&#xA;&lt;p&gt;I have worked on multiple aspects of the event from creative works (3D and compositing) to interaction design and mapping.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve also collaborated on a VJ set with Maxime Simmard.&lt;/p&gt;&#xA;&lt;p&gt;The visuals on these drapes were made by Anamika Deb while the surface was mapped by me and Bonnie Pham&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>szklana flora</title>
+      <link>http://localhost:1313/aaxx.ee/projects/szklana-flora/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
+      <guid>http://localhost:1313/aaxx.ee/projects/szklana-flora/</guid>
+      <description>&lt;p&gt;“szklana flora” or “La flore de verre” is a collaborative project made with polish/german producer Jakub Stefaniak (@hellosheg).&lt;/p&gt;&#xA;&lt;p&gt;The minute long piece is a contemplative exploration of textures and colors which was shown in front of the audience of the MAPP_MTL festival on the night of the 26th of September 2024. It was then played several times throughout the span of the festival, thus until the 29th of September.&lt;/p&gt;&#xA;&lt;p&gt;It features three scenes each displaying an array of vegetation flowing through the wind, which were simulated inside of Houdini. The textures and colors were then post-processed inside of After Effects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>plasma waves</title>
+      <link>http://localhost:1313/aaxx.ee/projects/plasma-waves/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
+      <guid>http://localhost:1313/aaxx.ee/projects/plasma-waves/</guid>
+      <description>&lt;p&gt;Plasma waves is a collaborative and ever-evolving project with multidisciplinary artist Santiago Betancour (a.k.a EscapedMind).&lt;/p&gt;&#xA;&lt;p&gt;The project is an exploration of the relation between water and electricity, it uses an improvised instrument, a plasma ball from which we record the vibrations caused by its man controlled disruption.&lt;/p&gt;&#xA;&lt;p&gt;The ambient soundscape is accompanied by interactive visuals with the purpose of offering an experience that you can sense from both sight and hearing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>past works</title>
+      <link>http://localhost:1313/aaxx.ee/projects/past-works/</link>
+      <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
+      <guid>http://localhost:1313/aaxx.ee/projects/past-works/</guid>
+      <description></description>
     </item>
     <item>
       <title>about me</title>
