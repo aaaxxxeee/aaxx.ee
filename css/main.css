@@ -211,14 +211,12 @@ p > code ::selection {
 
 /* Path navigation styles */
 .path-nav {
-  font-family: var(--font-family-mono);
-  padding: 0;
-  white-space: nowrap;
-  overflow-x: auto;
+  padding: 0px;
+  overflow-x: 0px;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none; /* IE and Edge */
-  width: 100%;
+  width: 0%;
 }
 
 .path-nav::-webkit-scrollbar {
@@ -238,7 +236,7 @@ p > code ::selection {
   align-items: center;
   color: #878787;
   flex-shrink: 0;
-  max-width: 200px; /* Limit maximum width on small screens */
+  max-width: 0px; /* Limit maximum width on small screens */
 }
 
 .path-nav li.current {
