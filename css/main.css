@@ -212,7 +212,7 @@ p > code ::selection {
 /* Path navigation styles */
 .path-nav {
   font-family: var(--font-family-mono);
-  padding: var(--spacing-base) 0;
+  padding: 0;
   white-space: nowrap;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
