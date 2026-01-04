@@ -106,8 +106,8 @@ html::before {
   position: fixed;
   inset: 0;
   z-index: 0;
-  background: rgba(156, 222, 12, 0.9) url('https://gitlab.com/aaaxxxeee/ressources/-/raw/main/molly.png?ref_type=heads');
-  background-blend-mode: darken;
+  background: rgba(119, 119, 119, 0.9) url('https://gitlab.com/aaaxxxeee/ressources/-/raw/main/molly.png?ref_type=heads');
+  background-blend-mode: lighten;
   background-position: center;
   opacity: 0.3; /* Adjust for desired opacity */
   pointer-events: none;
