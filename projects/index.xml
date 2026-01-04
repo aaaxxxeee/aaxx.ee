@@ -10,6 +10,13 @@
     <webMaster>alexandrebeuz121@gmail.com (Alexandre Beuzen)</webMaster>
     <atom:link href="http://aaxx.ee/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>immaterial affect</title>
+      <link>http://aaxx.ee/projects/immaterial-affect/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
+      <guid>http://aaxx.ee/projects/immaterial-affect/</guid>
+      <description>&lt;p&gt;Nowadays, data is a pretty dispensable resource, but if we were to look back 2 decades from today, we’d be amazed to see how far drive density has evolved.&lt;/p&gt;&#xA;&lt;p&gt;This trend has arguably strayed us further and further away from valuing data as a resource that you manage and take care of, nowadays, nobody knows how much data they produce and dispose of, mostly because of its perceived immateriality.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;no-underline-media&#34;&gt;&lt;img src=&#34;https://gitlab.com/aaaxxxeee/ressources/-/raw/main/IMG_3592.png?ref_type=heads&#34; alt=&#34;a picture of my cat molly&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>lacis</title>
       <link>http://aaxx.ee/projects/lacis/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
@@ -50,13 +57,6 @@
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
       <guid>http://aaxx.ee/projects/plasma-waves/</guid>
       <description>&lt;p&gt;&lt;a class=&#34;no-underline-media&#34;&gt;&lt;img src=&#34;https://gitlab.com/aaaxxxeee/ressources/-/raw/main/1.png?ref_type=heads&#34; alt=&#34;a picture of my cat molly&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Plasma waves is a collaborative and ever-evolving project with multidisciplinary artist Santiago Betancour (a.k.a EscapedMind).&lt;/p&gt;&#xA;&lt;p&gt;The project is an exploration of the relation between water and electricity, it uses an improvised instrument, a plasma ball from which we record the vibrations caused by its man controlled disruption.&lt;/p&gt;&#xA;&lt;p&gt;The ambient soundscape is accompanied by interactive visuals with the purpose of offering an experience that you can sense from both sight and hearing.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>past works</title>
-      <link>http://aaxx.ee/projects/past-works/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
-      <guid>http://aaxx.ee/projects/past-works/</guid>
-      <description>&lt;p&gt;Check back later !&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

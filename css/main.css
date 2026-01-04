@@ -21,7 +21,7 @@
   --color-selection-code-bg: #BDC1C7;
 
   /* Layout */
-  --container-width: 64ch;
+  --container-width: 90ch;
   --border-radius: 3px;
   --gap-base: 1em;
   --gap-small: 0.5em;
@@ -85,7 +85,7 @@ html {
 
 body {
   font: var(--font-size-base) / var(--spacing-base) var(--font-family-mono);
-  min-height: 100%;
+  min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns: minmax(auto, var(--container-width));
@@ -359,6 +359,16 @@ p > code ::selection {
 
 .terminal-nav .back-nav {
   margin: calc(var(--spacing-base) * 0.5) 0;
+}
+
+/* Iframe styles */
+iframe {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: var(--spacing-base) auto;
+  border-radius: var(--border-radius);
+  aspect-ratio: 16 / 9;
 }
 
 /* Image styles */

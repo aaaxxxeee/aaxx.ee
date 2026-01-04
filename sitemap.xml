@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://aaxx.ee/projects/immaterial-affect/</loc>
+    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://aaxx.ee/projects/lacis/</loc>
     <lastmod>2025-09-01T18:56:24-04:00</lastmod>
   </url><url>
@@ -21,15 +24,12 @@
     <lastmod>2025-08-29T14:08:10-04:00</lastmod>
   </url><url>
     <loc>http://aaxx.ee/about/</loc>
-    <lastmod>2025-12-24T23:14:56-05:00</lastmod>
+    <lastmod>2025-12-24T23:24:53-05:00</lastmod>
   </url><url>
     <loc>http://aaxx.ee/categories/</loc>
   </url><url>
     <loc>http://aaxx.ee/</loc>
     <lastmod>2025-12-11T10:40:51-05:00</lastmod>
-  </url><url>
-    <loc>http://aaxx.ee/projects/past-works/</loc>
-    <lastmod>2025-08-30T12:44:27-04:00</lastmod>
   </url><url>
     <loc>http://aaxx.ee/projects/</loc>
     <lastmod>2025-08-11T18:35:09-04:00</lastmod>

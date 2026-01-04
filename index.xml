@@ -10,6 +10,13 @@
     <webMaster>alexandrebeuz121@gmail.com (Alexandre Beuzen)</webMaster>
     <atom:link href="http://aaxx.ee/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>immaterial affect</title>
+      <link>http://aaxx.ee/projects/immaterial-affect/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
+      <guid>http://aaxx.ee/projects/immaterial-affect/</guid>
+      <description>&lt;p&gt;Nowadays, data is a pretty dispensable resource, but if we were to look back 2 decades from today, we’d be amazed to see how far drive density has evolved.&lt;/p&gt;&#xA;&lt;p&gt;This trend has arguably strayed us further and further away from valuing data as a resource that you manage and take care of, nowadays, nobody knows how much data they produce and dispose of, mostly because of its perceived immateriality.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;no-underline-media&#34;&gt;&lt;img src=&#34;https://gitlab.com/aaaxxxeee/ressources/-/raw/main/IMG_3592.png?ref_type=heads&#34; alt=&#34;a picture of my cat molly&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>lacis</title>
       <link>http://aaxx.ee/projects/lacis/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
@@ -57,13 +64,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
       <guid>http://aaxx.ee/about/</guid>
       <description>&lt;p&gt;Hi I&amp;rsquo;m Alexandre Beuzen, a Master of Design student at Concordia University where I currently focus on experimental game design.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m interested in everything related to media arts. I have a self-taught background in graphic design, but I quickly turned my focus to immersive and interactive installations during my time at the University of Quebec in Montréal.&lt;/p&gt;&#xA;&lt;p&gt;If you enjoy my work, please don&amp;rsquo;t hesitate to reach out to me.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>past works</title>
-      <link>http://aaxx.ee/projects/past-works/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>alexandrebeuz121@gmail.com (Alexandre Beuzen)</author>
-      <guid>http://aaxx.ee/projects/past-works/</guid>
-      <description>&lt;p&gt;Check back later !&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
