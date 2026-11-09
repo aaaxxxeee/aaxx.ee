@@ -2,38 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/immaterial-affect/</loc>
-    <lastmod>2026-01-04T14:34:21-05:00</lastmod>
+    <loc>http://aaxx.ee/projects/impatina/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/lacis/</loc>
-    <lastmod>2025-09-01T18:56:24-04:00</lastmod>
+    <loc>http://aaxx.ee/projects/immaterial-affect/</loc>
+    <lastmod>2026-11-09T12:37:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/exotopie/</loc>
-    <lastmod>2026-02-18T20:40:50-05:00</lastmod>
+    <loc>http://aaxx.ee/projects/lacis/</loc>
+    <lastmod>2026-11-09T12:37:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/laboratoire-sc%C3%A9nographique---mapp_mtl-x-moment-factory/</loc>
+    <loc>http://aaxx.ee/projects/exotopie/</loc>
+    <lastmod>2026-11-09T12:37:49-05:00</lastmod>
+  </url><url>
+    <loc>http://aaxx.ee/projects/laboratoire-sc%C3%A9nographique---mapp_mtl-x-moment-factory/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/szklana-flora/</loc>
-    <lastmod>2026-01-05T21:48:41-05:00</lastmod>
+    <loc>http://aaxx.ee/projects/szklana-flora/</loc>
+    <lastmod>2026-11-09T12:37:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/aufildeleau/</loc>
-    <lastmod>2026-01-05T21:48:41-05:00</lastmod>
+    <loc>http://aaxx.ee/projects/aufildeleau/</loc>
+    <lastmod>2026-11-09T12:37:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/plasma-waves/</loc>
-    <lastmod>2025-08-29T14:08:10-04:00</lastmod>
+    <loc>http://aaxx.ee/projects/plasma-waves/</loc>
+    <lastmod>2026-11-09T12:37:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-12-24T23:24:53-05:00</lastmod>
+    <loc>http://aaxx.ee/about/</loc>
+    <lastmod>2026-11-09T12:37:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://aaxx.ee/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-07T21:31:59-05:00</lastmod>
+    <loc>http://aaxx.ee/</loc>
+    <lastmod>2026-11-09T12:37:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-08-11T18:35:09-04:00</lastmod>
+    <loc>http://aaxx.ee/projects/</loc>
+    <lastmod>2026-11-09T12:37:49-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://aaxx.ee/tags/</loc>
   </url>
 </urlset>
