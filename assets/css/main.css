@@ -1,9 +1,11 @@
 :root {
   /* Typography */
+
   --spacing-base: 1.5em;
-  --font-family-mono: Iosevka Thin,Helvetica,Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+  --font-family-mono: Inter,Inter-Regular,Iosevka Thin,Helvetica,Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
   --font-size-base: 1em;
   --font-size-small: 0.9em;
+
 
   /* Spacing */
   --spacing-xs: calc(var(--spacing-base) * 0.25);
@@ -14,7 +16,7 @@
   /* Colors */
   --color-bg-primary: #ffffff;
   --color-bg-secondary: #ffffff;
-  --color-border: #ffffff;
+  --color-border: #ffffff2f;
   --color-text-primary: #ffffffcd;
   --color-text-muted: #ffffff;
   --color-selection-bg: #ffffff;
@@ -29,6 +31,8 @@
   /* Breakpoints */
   --breakpoint-mobile: 600px;
 }
+
+@font-face { font-family: "Inter"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://github.com/aaaxxxeee/aaxx.ee/blob/c772220979c7be3342f56ad8685bfa0f25715727/Inter-Regular.woff2") format("woff2"); }
 
 /* unvisited link */
 a:link {
@@ -346,7 +350,7 @@ p > code ::selection {
 /* Main menu navigation styles */
 .terminal-nav {
   font-family: var(--font-family-mono);
-  border-top: 1px solid var(--color-border);
+  border-top: 1px groove var(--color-border);
   margin-top: calc(var(--spacing-base) * 2);
   padding-top: var(--spacing-base);
 }
