@@ -130,7 +130,7 @@ html::before {
   position:fixed;
   inset: 0;
   z-index: 0;
-  background: rgb(71, 65, 64) url('https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/1.png');
+  background: rgb(10, 9, 8) url('https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/1.png');
   background-repeat: no-repeat;
   background-blend-mode:darken;
   background-position:span;
