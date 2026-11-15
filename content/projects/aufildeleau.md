@@ -8,9 +8,9 @@ au fil de l'eau is an immersive and interactive installation in which the audien
 
 During the making of this group project I have worked on real-time fluid simulation, and I have developped the 3D aspects of the depths as well as the interactive components which were routed in between Touchdesigner and Unreal Engine.
 
-<a class="no-underline-media"><img src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/1.gif?ref_type=heads" alt="a picture of my cat molly"></a>
+<a class="no-underline-media"><img src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/1.gif" alt="a picture of my cat molly"></a>
 <video width= 100% height="auto" controls>
-  <source src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/1.mp4?ref_type=heads" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/1.mp4" type="video/mp4">
 </video>
 
 This project was exhibited publicly on the 26th of april 2024.

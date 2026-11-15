@@ -4,7 +4,7 @@ date: 2024-01-13
 comment: true
 ---
 
-<a class="no-underline-media"><img src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/1.png?ref_type=heads" alt="a picture of my cat molly"></a>
+<a class="no-underline-media"><img src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/1.png" alt="a picture of my cat molly"></a>
 
 Plasma waves is a collaborative and ever-evolving project with multidisciplinary artist Santiago Betancour (a.k.a EscapedMind). 
 

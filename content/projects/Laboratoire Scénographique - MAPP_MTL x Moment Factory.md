@@ -7,9 +7,9 @@ comment: true
 
 In September 2024 I had the opportunity to be apart of the people who worked on the closing party of the MAPP_MTL festival which took place on September 29th 2024 at Moment Factory.
 
-<a class="no-underline-media"><img src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/drapescrowd.jpg?ref_type=heads" alt="a picture of my cat molly"></a>
-<a class="no-underline-media"><img src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/drapesMAPPshirt.jpg?ref_type=heads" alt="a picture of my cat molly"></a>
-<a class="no-underline-media"><img src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/VJvisuals.jpg?ref_type=heads" alt="a picture of my cat molly"></a>
+<a class="no-underline-media"><img src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/drapescrowd.jpg" alt="a picture of my cat molly"></a>
+<a class="no-underline-media"><img src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/drapesMAPPshirt.jpg" alt="a picture of my cat molly"></a>
+<a class="no-underline-media"><img src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/VJvisuals.jpg" alt="a picture of my cat molly"></a>
 
 I have worked on multiple aspects of the event from creative works (3D and compositing) to interaction design and mapping.
 

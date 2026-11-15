@@ -8,9 +8,9 @@ Nowadays, data is a pretty dispensable resource, but if we were to look back 2 d
 
 This trend has arguably strayed us further and further away from valuing data as a resource that you manage and take care of, nowadays, nobody knows how much data they produce and dispose of, mostly because of its perceived immateriality.
 
-<a class="no-underline-media"><img src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/IMG_3592.png?ref_type=heads" alt="a picture of my cat molly"></a>
+<a class="no-underline-media"><img src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/IMG_3592.png" alt="a picture of my cat molly"></a>
 
-<a class="no-underline-media"><img src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/IMG_3574.png?ref_type=heads" alt="a picture of my cat molly"></a>
+<a class="no-underline-media"><img src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/IMG_3574.png" alt="a picture of my cat molly"></a>
 
 A shared common ground we have as humans is that we constantly live through events, some that we end up loving dearly. These moments are often captured as data through images, sometimes forgotten, sometimes revisited.
 

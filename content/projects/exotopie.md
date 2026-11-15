@@ -5,7 +5,7 @@ comment: true
 #tags: ["projects"]
 ---
 
-<a class="no-underline-media"><img src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/783A9451.jpeg?ref_type=heads" alt="a picture of my cat molly"></a>
+<a class="no-underline-media"><img src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/783A9451.jpeg" alt="a picture of my cat molly"></a>
 
 exotopie fut conçu en tant qu’événement éphémère produit d’une collaboration entre le baccalauréat en création d'expériences immersives et interactives de l’UQAM et le Quartier des spectacles. En réponse à cette collaboration, les étudiants de la cohorte de 2022 eurent carte blanche pour développer un événement incluant des installations interactives à présenter dans le cadre du festival d’art sonore et de lumière Lumino.
 
@@ -15,7 +15,7 @@ Un second objectif au cœur du processus de création d’exotopie fut de concep
 
 Un troisième objectif fut de produire une expérience participative et non hiérarchique où audience et artistes pouvaient collaborer dans l’évolution d’une scénographie procédurale au sein d’un lieu voué à être exploré. Cette motivation s’est manifestée par la conception d'interactions permettant à l’audience d’affecter la scénographie de l’espace en direct, et ce en parallèle à des performances audiovisuelles et d’art vivant où l’absence de scène principale promeut l’exploration à travers la déambulation.
 
-<a class="no-underline-media"><img src="https://gitlab.com/aaaxxxeee/ressources/-/raw/main/783A0168.jpeg?ref_type=heads" alt="a picture of my cat molly"></a>
+<a class="no-underline-media"><img src="https://raw.githubusercontent.com/aaaxxxeee/aaxx.ee/refs/heads/resources/783A0168.jpeg" alt="a picture of my cat molly"></a>
 
 Le système interactif et immersif d’exotopie fut entièrement produit afin de soutenir l’immersion du public dans notre univers tout en permettant une expérience unique promouvant la création de moments mémorables pour les membres de l’audience.
 
