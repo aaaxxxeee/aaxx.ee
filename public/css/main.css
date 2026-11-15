@@ -130,7 +130,7 @@ html::before {
   position:fixed;
   inset: 0;
   z-index: 0;
-  background: rgb(5, 5, 5) url('https://gitlab.com/aaaxxxeee/ressources/-/raw/main/bgggg.gif?ref_type=heads');
+  background: rgb(5, 5, 5) url('https://github.com/aaaxxxeee/aaxx.ee/blob/resources/background.gif?raw=true');
   background-repeat: no-repeat;
   background-blend-mode:color;
   background-position:span;
